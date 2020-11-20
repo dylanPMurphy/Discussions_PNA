@@ -21,6 +21,6 @@ I chose the domain name dylanpmurphy.com for my portfolio with AWS.
 
 Career Services Check-In:  We have brilliant staff in our career services department who are ready to work with you as long as it takes to help you navigate the job search.  Once a Dojo student, ALWAYS a Dojo student.  With that said, do you plan to work with our career services staff and attend their workshops which will take place 1 week after your graduation date?  What concerns you most about this next step and getting out there in general?  
 ```
-I am very anxious about coding interviews. I feel like an imposter sometimes.
+Yes I am already working with Duy.  I am very anxious about coding interviews. I feel like an imposter sometimes.
 ```
 
